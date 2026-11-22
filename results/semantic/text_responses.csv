@@ -1,0 +1,1937 @@
+respondent_id,question,text
+R001,reason_llm,Clear step-by-step explanations
+R001,reason_llm,Can explain the same concept in different ways
+R001,reason_teacher,Practical/real-world experience
+R001,reason_teacher,Better follow-up and doubt solving
+R001,reason_teacher,Better understanding of course/syllabus
+R001,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R001,llm_situations,For quick revision and understanding theoretical topics.
+R001,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R002,reason_llm,More examples
+R002,reason_llm,Can explain the same concept in different ways
+R002,reason_llm,Helps with difficult concepts
+R002,reason_teacher,Better understanding of course/syllabus
+R002,reason_teacher,Practical/real-world experience
+R002,reason_teacher,More trustworthy for important academic decisions
+R002,reason_teacher,Better follow-up and doubt solving
+R002,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R002,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R002,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R003,reason_llm,Available anytime
+R003,reason_llm,Helps with difficult concepts
+R003,reason_llm,Faster responses
+R003,reason_llm,Can explain the same concept in different ways
+R003,reason_llm,Personalized responses
+R003,reason_teacher,Better follow-up and doubt solving
+R003,reason_teacher,Practical/real-world experience
+R003,reason_teacher,More trustworthy for important academic decisions
+R003,reason_teacher,Better understanding of course/syllabus
+R003,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R003,llm_situations,When I need examples or personalized explanations.
+R003,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R004,reason_llm,Can explain the same concept in different ways
+R004,reason_llm,Helps with difficult concepts
+R004,reason_teacher,Better follow-up and doubt solving
+R004,reason_teacher,Better understanding of course/syllabus
+R004,reason_teacher,Practical/real-world experience
+R004,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R004,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R004,teacher_situations,For important academic decisions and clearing complex doubts.
+R005,reason_llm,Available anytime
+R005,reason_llm,More examples
+R005,reason_llm,Personalized responses
+R005,reason_llm,Clear step-by-step explanations
+R005,reason_teacher,More trustworthy for important academic decisions
+R005,reason_teacher,Better understanding of course/syllabus
+R005,reason_teacher,Practical/real-world experience
+R005,reason_teacher,Better follow-up and doubt solving
+R005,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R005,llm_situations,For quick revision and understanding theoretical topics.
+R005,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R006,reason_llm,Helps with difficult concepts
+R006,reason_llm,Easy-to-understand language
+R006,reason_llm,Personalized responses
+R006,reason_teacher,More trustworthy for important academic decisions
+R006,reason_teacher,Better understanding of course/syllabus
+R006,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R006,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R006,teacher_situations,When I need practical experience or detailed feedback.
+R007,reason_llm,Faster responses
+R007,reason_llm,More examples
+R007,reason_llm,Personalized responses
+R007,reason_teacher,Practical/real-world experience
+R007,reason_teacher,Better follow-up and doubt solving
+R007,reason_teacher,Better understanding of course/syllabus
+R007,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R007,llm_situations,When I need quick explanations or have limited time.
+R007,teacher_situations,When personal guidance and classroom interaction are needed.
+R008,reason_llm,Clear step-by-step explanations
+R008,reason_llm,Personalized responses
+R008,reason_teacher,Better follow-up and doubt solving
+R008,reason_teacher,Practical/real-world experience
+R008,reason_teacher,More trustworthy for important academic decisions
+R008,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R008,llm_situations,When I need examples or personalized explanations.
+R008,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R009,reason_llm,Faster responses
+R009,reason_llm,Clear step-by-step explanations
+R009,reason_llm,Available anytime
+R009,reason_llm,Can explain the same concept in different ways
+R009,reason_teacher,Better understanding of course/syllabus
+R009,reason_teacher,Better follow-up and doubt solving
+R009,reason_teacher,Practical/real-world experience
+R009,reason_teacher,More trustworthy for important academic decisions
+R009,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R009,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R009,teacher_situations,For important academic decisions and clearing complex doubts.
+R010,reason_llm,Faster responses
+R010,reason_llm,Personalized responses
+R010,reason_llm,Clear step-by-step explanations
+R010,reason_llm,Available anytime
+R010,reason_teacher,Practical/real-world experience
+R010,reason_teacher,Better understanding of course/syllabus
+R010,reason_teacher,More trustworthy for important academic decisions
+R010,reason_teacher,Better follow-up and doubt solving
+R010,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R010,llm_situations,For quick revision and understanding theoretical topics.
+R010,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R011,reason_llm,Faster responses
+R011,reason_llm,Clear step-by-step explanations
+R011,reason_llm,Helps with difficult concepts
+R011,reason_llm,Available anytime
+R011,reason_llm,Easy-to-understand language
+R011,reason_teacher,Practical/real-world experience
+R011,reason_teacher,Better follow-up and doubt solving
+R011,reason_teacher,More trustworthy for important academic decisions
+R011,reason_teacher,Better understanding of course/syllabus
+R011,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R011,llm_situations,When I need quick explanations or have limited time.
+R011,teacher_situations,When I need practical experience or detailed feedback.
+R012,reason_llm,Helps with difficult concepts
+R012,reason_llm,Available anytime
+R012,reason_teacher,More trustworthy for important academic decisions
+R012,reason_teacher,Better understanding of course/syllabus
+R012,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R012,llm_situations,For quick revision and understanding theoretical topics.
+R012,teacher_situations,When personal guidance and classroom interaction are needed.
+R013,reason_llm,Clear step-by-step explanations
+R013,reason_llm,Can explain the same concept in different ways
+R013,reason_llm,Available anytime
+R013,reason_llm,Faster responses
+R013,reason_llm,Easy-to-understand language
+R013,reason_teacher,Practical/real-world experience
+R013,reason_teacher,More trustworthy for important academic decisions
+R013,reason_teacher,Better follow-up and doubt solving
+R013,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R013,llm_situations,For quick revision and understanding theoretical topics.
+R013,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R014,reason_llm,Available anytime
+R014,reason_llm,Can explain the same concept in different ways
+R014,reason_teacher,Better follow-up and doubt solving
+R014,reason_teacher,More trustworthy for important academic decisions
+R014,reason_teacher,Better understanding of course/syllabus
+R014,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R014,llm_situations,When I need examples or personalized explanations.
+R014,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R015,reason_llm,Clear step-by-step explanations
+R015,reason_llm,Personalized responses
+R015,reason_teacher,Better understanding of course/syllabus
+R015,reason_teacher,Better follow-up and doubt solving
+R015,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R015,llm_situations,When I need examples or personalized explanations.
+R015,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R016,reason_llm,More examples
+R016,reason_llm,Clear step-by-step explanations
+R016,reason_llm,Available anytime
+R016,reason_llm,Faster responses
+R016,reason_llm,Helps with difficult concepts
+R016,reason_teacher,Better follow-up and doubt solving
+R016,reason_teacher,More trustworthy for important academic decisions
+R016,reason_teacher,Practical/real-world experience
+R016,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R016,llm_situations,When I need examples or personalized explanations.
+R016,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R017,reason_llm,More examples
+R017,reason_llm,Clear step-by-step explanations
+R017,reason_llm,Helps with difficult concepts
+R017,reason_llm,Available anytime
+R017,reason_llm,Faster responses
+R017,reason_teacher,Better follow-up and doubt solving
+R017,reason_teacher,More trustworthy for important academic decisions
+R017,reason_teacher,Better understanding of course/syllabus
+R017,reason_teacher,Practical/real-world experience
+R017,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R017,llm_situations,When I need examples or personalized explanations.
+R017,teacher_situations,When I need practical experience or detailed feedback.
+R018,reason_llm,Faster responses
+R018,reason_llm,Clear step-by-step explanations
+R018,reason_llm,Easy-to-understand language
+R018,reason_teacher,Better understanding of course/syllabus
+R018,reason_teacher,Better follow-up and doubt solving
+R018,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R018,llm_situations,When I need quick explanations or have limited time.
+R018,teacher_situations,When personal guidance and classroom interaction are needed.
+R019,reason_llm,Helps with difficult concepts
+R019,reason_llm,Easy-to-understand language
+R019,reason_teacher,More trustworthy for important academic decisions
+R019,reason_teacher,Better follow-up and doubt solving
+R019,reason_teacher,Better understanding of course/syllabus
+R019,reason_teacher,Practical/real-world experience
+R019,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R019,llm_situations,For quick revision and understanding theoretical topics.
+R019,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R020,reason_llm,Can explain the same concept in different ways
+R020,reason_llm,More examples
+R020,reason_llm,Clear step-by-step explanations
+R020,reason_llm,Faster responses
+R020,reason_llm,Helps with difficult concepts
+R020,reason_teacher,Better understanding of course/syllabus
+R020,reason_teacher,Practical/real-world experience
+R020,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R020,llm_situations,For quick revision and understanding theoretical topics.
+R020,teacher_situations,When personal guidance and classroom interaction are needed.
+R021,reason_llm,Helps with difficult concepts
+R021,reason_llm,Personalized responses
+R021,reason_teacher,Better understanding of course/syllabus
+R021,reason_teacher,Practical/real-world experience
+R021,reason_teacher,Better follow-up and doubt solving
+R021,reason_teacher,More trustworthy for important academic decisions
+R021,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R021,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R021,teacher_situations,For important academic decisions and clearing complex doubts.
+R022,reason_llm,Easy-to-understand language
+R022,reason_llm,Personalized responses
+R022,reason_llm,More examples
+R022,reason_llm,Available anytime
+R022,reason_llm,Helps with difficult concepts
+R022,reason_teacher,Better follow-up and doubt solving
+R022,reason_teacher,Better understanding of course/syllabus
+R022,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R022,llm_situations,For quick revision and understanding theoretical topics.
+R022,teacher_situations,When I need practical experience or detailed feedback.
+R023,reason_llm,Faster responses
+R023,reason_llm,Available anytime
+R023,reason_llm,More examples
+R023,reason_llm,Can explain the same concept in different ways
+R023,reason_llm,Clear step-by-step explanations
+R023,reason_teacher,More trustworthy for important academic decisions
+R023,reason_teacher,Better understanding of course/syllabus
+R023,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R023,llm_situations,When I need examples or personalized explanations.
+R023,teacher_situations,When personal guidance and classroom interaction are needed.
+R024,reason_llm,Faster responses
+R024,reason_llm,Clear step-by-step explanations
+R024,reason_llm,Helps with difficult concepts
+R024,reason_llm,Can explain the same concept in different ways
+R024,reason_teacher,Better follow-up and doubt solving
+R024,reason_teacher,Better understanding of course/syllabus
+R024,reason_teacher,More trustworthy for important academic decisions
+R024,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R024,llm_situations,For quick revision and understanding theoretical topics.
+R024,teacher_situations,When I need practical experience or detailed feedback.
+R025,reason_llm,Helps with difficult concepts
+R025,reason_llm,More examples
+R025,reason_llm,Clear step-by-step explanations
+R025,reason_teacher,Practical/real-world experience
+R025,reason_teacher,More trustworthy for important academic decisions
+R025,reason_teacher,Better follow-up and doubt solving
+R025,reason_teacher,Better understanding of course/syllabus
+R025,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R025,llm_situations,When I need examples or personalized explanations.
+R025,teacher_situations,When I need practical experience or detailed feedback.
+R026,reason_llm,Clear step-by-step explanations
+R026,reason_llm,Personalized responses
+R026,reason_llm,Easy-to-understand language
+R026,reason_llm,Helps with difficult concepts
+R026,reason_teacher,Practical/real-world experience
+R026,reason_teacher,Better understanding of course/syllabus
+R026,reason_teacher,Better follow-up and doubt solving
+R026,reason_teacher,More trustworthy for important academic decisions
+R026,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R026,llm_situations,For quick revision and understanding theoretical topics.
+R026,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R027,reason_llm,Faster responses
+R027,reason_llm,Clear step-by-step explanations
+R027,reason_teacher,Better understanding of course/syllabus
+R027,reason_teacher,More trustworthy for important academic decisions
+R027,reason_teacher,Practical/real-world experience
+R027,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R027,llm_situations,For quick revision and understanding theoretical topics.
+R027,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R028,reason_llm,Faster responses
+R028,reason_llm,Helps with difficult concepts
+R028,reason_teacher,Better follow-up and doubt solving
+R028,reason_teacher,Better understanding of course/syllabus
+R028,reason_teacher,Practical/real-world experience
+R028,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R028,llm_situations,When I need quick explanations or have limited time.
+R028,teacher_situations,For important academic decisions and clearing complex doubts.
+R029,reason_llm,Personalized responses
+R029,reason_llm,More examples
+R029,reason_teacher,Better understanding of course/syllabus
+R029,reason_teacher,Practical/real-world experience
+R029,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R029,llm_situations,When I need quick explanations or have limited time.
+R029,teacher_situations,When personal guidance and classroom interaction are needed.
+R030,reason_llm,Easy-to-understand language
+R030,reason_llm,Personalized responses
+R030,reason_llm,Clear step-by-step explanations
+R030,reason_llm,Helps with difficult concepts
+R030,reason_llm,More examples
+R030,reason_teacher,Better understanding of course/syllabus
+R030,reason_teacher,Better follow-up and doubt solving
+R030,reason_teacher,Practical/real-world experience
+R030,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R030,llm_situations,When I need quick explanations or have limited time.
+R030,teacher_situations,For important academic decisions and clearing complex doubts.
+R031,reason_llm,Easy-to-understand language
+R031,reason_llm,Helps with difficult concepts
+R031,reason_llm,Personalized responses
+R031,reason_llm,More examples
+R031,reason_teacher,Better understanding of course/syllabus
+R031,reason_teacher,Practical/real-world experience
+R031,reason_teacher,Better follow-up and doubt solving
+R031,reason_teacher,More trustworthy for important academic decisions
+R031,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R031,llm_situations,When I need quick explanations or have limited time.
+R031,teacher_situations,When I need practical experience or detailed feedback.
+R032,reason_llm,Helps with difficult concepts
+R032,reason_llm,Clear step-by-step explanations
+R032,reason_llm,Available anytime
+R032,reason_llm,More examples
+R032,reason_llm,Faster responses
+R032,reason_teacher,More trustworthy for important academic decisions
+R032,reason_teacher,Better understanding of course/syllabus
+R032,reason_teacher,Better follow-up and doubt solving
+R032,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R032,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R032,teacher_situations,For important academic decisions and clearing complex doubts.
+R033,reason_llm,Available anytime
+R033,reason_llm,Helps with difficult concepts
+R033,reason_llm,Clear step-by-step explanations
+R033,reason_llm,More examples
+R033,reason_llm,Easy-to-understand language
+R033,reason_teacher,More trustworthy for important academic decisions
+R033,reason_teacher,Practical/real-world experience
+R033,reason_teacher,Better follow-up and doubt solving
+R033,reason_teacher,Better understanding of course/syllabus
+R033,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R033,llm_situations,When I need quick explanations or have limited time.
+R033,teacher_situations,When I need practical experience or detailed feedback.
+R034,reason_llm,Clear step-by-step explanations
+R034,reason_llm,Helps with difficult concepts
+R034,reason_llm,Can explain the same concept in different ways
+R034,reason_teacher,Better follow-up and doubt solving
+R034,reason_teacher,Practical/real-world experience
+R034,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R034,llm_situations,When I need examples or personalized explanations.
+R034,teacher_situations,When I need practical experience or detailed feedback.
+R035,reason_llm,Can explain the same concept in different ways
+R035,reason_llm,More examples
+R035,reason_llm,Easy-to-understand language
+R035,reason_teacher,Better follow-up and doubt solving
+R035,reason_teacher,Better understanding of course/syllabus
+R035,reason_teacher,More trustworthy for important academic decisions
+R035,reason_teacher,Practical/real-world experience
+R035,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R035,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R035,teacher_situations,For important academic decisions and clearing complex doubts.
+R036,reason_llm,Clear step-by-step explanations
+R036,reason_llm,More examples
+R036,reason_llm,Can explain the same concept in different ways
+R036,reason_llm,Faster responses
+R036,reason_llm,Personalized responses
+R036,reason_teacher,More trustworthy for important academic decisions
+R036,reason_teacher,Practical/real-world experience
+R036,reason_teacher,Better follow-up and doubt solving
+R036,reason_teacher,Better understanding of course/syllabus
+R036,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R036,llm_situations,When I need examples or personalized explanations.
+R036,teacher_situations,For important academic decisions and clearing complex doubts.
+R037,reason_llm,Clear step-by-step explanations
+R037,reason_llm,Can explain the same concept in different ways
+R037,reason_llm,Easy-to-understand language
+R037,reason_teacher,More trustworthy for important academic decisions
+R037,reason_teacher,Better follow-up and doubt solving
+R037,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R037,llm_situations,When I need examples or personalized explanations.
+R037,teacher_situations,When personal guidance and classroom interaction are needed.
+R038,reason_llm,Personalized responses
+R038,reason_llm,More examples
+R038,reason_llm,Available anytime
+R038,reason_llm,Easy-to-understand language
+R038,reason_teacher,Better follow-up and doubt solving
+R038,reason_teacher,More trustworthy for important academic decisions
+R038,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R038,llm_situations,When I need examples or personalized explanations.
+R038,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R039,reason_llm,Easy-to-understand language
+R039,reason_llm,Personalized responses
+R039,reason_teacher,More trustworthy for important academic decisions
+R039,reason_teacher,Better understanding of course/syllabus
+R039,reason_teacher,Practical/real-world experience
+R039,reason_teacher,Better follow-up and doubt solving
+R039,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R039,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R039,teacher_situations,When personal guidance and classroom interaction are needed.
+R040,reason_llm,Can explain the same concept in different ways
+R040,reason_llm,More examples
+R040,reason_teacher,Better follow-up and doubt solving
+R040,reason_teacher,Practical/real-world experience
+R040,reason_teacher,More trustworthy for important academic decisions
+R040,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R040,llm_situations,When I need quick explanations or have limited time.
+R040,teacher_situations,When I need practical experience or detailed feedback.
+R041,reason_llm,Helps with difficult concepts
+R041,reason_llm,Clear step-by-step explanations
+R041,reason_llm,Available anytime
+R041,reason_llm,Easy-to-understand language
+R041,reason_llm,More examples
+R041,reason_teacher,Practical/real-world experience
+R041,reason_teacher,Better understanding of course/syllabus
+R041,reason_teacher,Better follow-up and doubt solving
+R041,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R041,llm_situations,When I need examples or personalized explanations.
+R041,teacher_situations,When personal guidance and classroom interaction are needed.
+R042,reason_llm,Easy-to-understand language
+R042,reason_llm,Helps with difficult concepts
+R042,reason_teacher,Practical/real-world experience
+R042,reason_teacher,Better follow-up and doubt solving
+R042,reason_teacher,More trustworthy for important academic decisions
+R042,reason_teacher,Better understanding of course/syllabus
+R042,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R042,llm_situations,For quick revision and understanding theoretical topics.
+R042,teacher_situations,For important academic decisions and clearing complex doubts.
+R043,reason_llm,Personalized responses
+R043,reason_llm,Faster responses
+R043,reason_llm,Can explain the same concept in different ways
+R043,reason_teacher,Practical/real-world experience
+R043,reason_teacher,More trustworthy for important academic decisions
+R043,reason_teacher,Better understanding of course/syllabus
+R043,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R043,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R043,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R044,reason_llm,Personalized responses
+R044,reason_llm,Easy-to-understand language
+R044,reason_teacher,Practical/real-world experience
+R044,reason_teacher,Better understanding of course/syllabus
+R044,reason_teacher,More trustworthy for important academic decisions
+R044,reason_teacher,Better follow-up and doubt solving
+R044,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R044,llm_situations,When I need examples or personalized explanations.
+R044,teacher_situations,For important academic decisions and clearing complex doubts.
+R045,reason_llm,Helps with difficult concepts
+R045,reason_llm,More examples
+R045,reason_llm,Can explain the same concept in different ways
+R045,reason_teacher,More trustworthy for important academic decisions
+R045,reason_teacher,Practical/real-world experience
+R045,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R045,llm_situations,When I need quick explanations or have limited time.
+R045,teacher_situations,When I need practical experience or detailed feedback.
+R046,reason_llm,Easy-to-understand language
+R046,reason_llm,Available anytime
+R046,reason_llm,Faster responses
+R046,reason_llm,Can explain the same concept in different ways
+R046,reason_llm,Clear step-by-step explanations
+R046,reason_teacher,More trustworthy for important academic decisions
+R046,reason_teacher,Better understanding of course/syllabus
+R046,reason_teacher,Practical/real-world experience
+R046,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R046,llm_situations,For quick revision and understanding theoretical topics.
+R046,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R047,reason_llm,Faster responses
+R047,reason_llm,Easy-to-understand language
+R047,reason_llm,Personalized responses
+R047,reason_llm,More examples
+R047,reason_teacher,Better follow-up and doubt solving
+R047,reason_teacher,More trustworthy for important academic decisions
+R047,reason_teacher,Practical/real-world experience
+R047,reason_teacher,Better understanding of course/syllabus
+R047,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R047,llm_situations,For quick revision and understanding theoretical topics.
+R047,teacher_situations,For important academic decisions and clearing complex doubts.
+R048,reason_llm,Personalized responses
+R048,reason_llm,Can explain the same concept in different ways
+R048,reason_llm,More examples
+R048,reason_llm,Clear step-by-step explanations
+R048,reason_teacher,Better understanding of course/syllabus
+R048,reason_teacher,Better follow-up and doubt solving
+R048,reason_teacher,Practical/real-world experience
+R048,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R048,llm_situations,When I need examples or personalized explanations.
+R048,teacher_situations,When I need practical experience or detailed feedback.
+R049,reason_llm,Personalized responses
+R049,reason_llm,More examples
+R049,reason_llm,Easy-to-understand language
+R049,reason_llm,Clear step-by-step explanations
+R049,reason_teacher,More trustworthy for important academic decisions
+R049,reason_teacher,Practical/real-world experience
+R049,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R049,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R049,teacher_situations,When I need practical experience or detailed feedback.
+R050,reason_llm,Available anytime
+R050,reason_llm,Clear step-by-step explanations
+R050,reason_llm,Easy-to-understand language
+R050,reason_llm,Helps with difficult concepts
+R050,reason_teacher,More trustworthy for important academic decisions
+R050,reason_teacher,Better understanding of course/syllabus
+R050,reason_teacher,Practical/real-world experience
+R050,reason_teacher,Better follow-up and doubt solving
+R050,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R050,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R050,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R051,reason_llm,Helps with difficult concepts
+R051,reason_llm,Personalized responses
+R051,reason_llm,Available anytime
+R051,reason_teacher,More trustworthy for important academic decisions
+R051,reason_teacher,Better follow-up and doubt solving
+R051,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R051,llm_situations,For quick revision and understanding theoretical topics.
+R051,teacher_situations,When I need practical experience or detailed feedback.
+R052,reason_llm,Available anytime
+R052,reason_llm,Personalized responses
+R052,reason_llm,Helps with difficult concepts
+R052,reason_llm,Easy-to-understand language
+R052,reason_llm,Clear step-by-step explanations
+R052,reason_teacher,Better understanding of course/syllabus
+R052,reason_teacher,Better follow-up and doubt solving
+R052,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R052,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R052,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R053,reason_llm,Can explain the same concept in different ways
+R053,reason_llm,Faster responses
+R053,reason_llm,More examples
+R053,reason_llm,Helps with difficult concepts
+R053,reason_llm,Personalized responses
+R053,reason_teacher,Better follow-up and doubt solving
+R053,reason_teacher,Practical/real-world experience
+R053,reason_teacher,Better understanding of course/syllabus
+R053,reason_teacher,More trustworthy for important academic decisions
+R053,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R053,llm_situations,When I need quick explanations or have limited time.
+R053,teacher_situations,When personal guidance and classroom interaction are needed.
+R054,reason_llm,Helps with difficult concepts
+R054,reason_llm,Available anytime
+R054,reason_llm,Personalized responses
+R054,reason_llm,Easy-to-understand language
+R054,reason_teacher,More trustworthy for important academic decisions
+R054,reason_teacher,Better follow-up and doubt solving
+R054,reason_teacher,Practical/real-world experience
+R054,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R054,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R054,teacher_situations,When I need practical experience or detailed feedback.
+R055,reason_llm,Personalized responses
+R055,reason_llm,More examples
+R055,reason_teacher,Better understanding of course/syllabus
+R055,reason_teacher,More trustworthy for important academic decisions
+R055,reason_teacher,Practical/real-world experience
+R055,reason_teacher,Better follow-up and doubt solving
+R055,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R055,llm_situations,When I need examples or personalized explanations.
+R055,teacher_situations,When I need practical experience or detailed feedback.
+R056,reason_llm,Easy-to-understand language
+R056,reason_llm,Helps with difficult concepts
+R056,reason_llm,Available anytime
+R056,reason_llm,Clear step-by-step explanations
+R056,reason_llm,Can explain the same concept in different ways
+R056,reason_teacher,Better understanding of course/syllabus
+R056,reason_teacher,Practical/real-world experience
+R056,reason_teacher,Better follow-up and doubt solving
+R056,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R056,llm_situations,When I need quick explanations or have limited time.
+R056,teacher_situations,When I need practical experience or detailed feedback.
+R057,reason_llm,Helps with difficult concepts
+R057,reason_llm,Easy-to-understand language
+R057,reason_llm,More examples
+R057,reason_llm,Clear step-by-step explanations
+R057,reason_teacher,Practical/real-world experience
+R057,reason_teacher,Better follow-up and doubt solving
+R057,reason_teacher,More trustworthy for important academic decisions
+R057,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R057,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R057,teacher_situations,When I need practical experience or detailed feedback.
+R058,reason_llm,Personalized responses
+R058,reason_llm,Available anytime
+R058,reason_llm,More examples
+R058,reason_teacher,Better understanding of course/syllabus
+R058,reason_teacher,Practical/real-world experience
+R058,reason_teacher,More trustworthy for important academic decisions
+R058,reason_teacher,Better follow-up and doubt solving
+R058,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R058,llm_situations,When I need quick explanations or have limited time.
+R058,teacher_situations,When I need practical experience or detailed feedback.
+R059,reason_llm,Easy-to-understand language
+R059,reason_llm,Available anytime
+R059,reason_llm,More examples
+R059,reason_teacher,Practical/real-world experience
+R059,reason_teacher,Better follow-up and doubt solving
+R059,reason_teacher,More trustworthy for important academic decisions
+R059,reason_teacher,Better understanding of course/syllabus
+R059,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R059,llm_situations,When I need quick explanations or have limited time.
+R059,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R060,reason_llm,More examples
+R060,reason_llm,Personalized responses
+R060,reason_teacher,Better understanding of course/syllabus
+R060,reason_teacher,More trustworthy for important academic decisions
+R060,reason_teacher,Better follow-up and doubt solving
+R060,reason_teacher,Practical/real-world experience
+R060,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R060,llm_situations,For quick revision and understanding theoretical topics.
+R060,teacher_situations,For important academic decisions and clearing complex doubts.
+R061,reason_llm,Helps with difficult concepts
+R061,reason_llm,Available anytime
+R061,reason_llm,Can explain the same concept in different ways
+R061,reason_llm,More examples
+R061,reason_llm,Easy-to-understand language
+R061,reason_teacher,Practical/real-world experience
+R061,reason_teacher,Better understanding of course/syllabus
+R061,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R061,llm_situations,When I need examples or personalized explanations.
+R061,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R062,reason_llm,Helps with difficult concepts
+R062,reason_llm,Personalized responses
+R062,reason_llm,Faster responses
+R062,reason_llm,More examples
+R062,reason_llm,Available anytime
+R062,reason_teacher,Better follow-up and doubt solving
+R062,reason_teacher,Practical/real-world experience
+R062,reason_teacher,More trustworthy for important academic decisions
+R062,reason_teacher,Better understanding of course/syllabus
+R062,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R062,llm_situations,When I need quick explanations or have limited time.
+R062,teacher_situations,For important academic decisions and clearing complex doubts.
+R063,reason_llm,Personalized responses
+R063,reason_llm,Clear step-by-step explanations
+R063,reason_llm,Available anytime
+R063,reason_teacher,Practical/real-world experience
+R063,reason_teacher,Better follow-up and doubt solving
+R063,reason_teacher,More trustworthy for important academic decisions
+R063,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R063,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R063,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R064,reason_llm,Available anytime
+R064,reason_llm,Faster responses
+R064,reason_llm,Personalized responses
+R064,reason_llm,Clear step-by-step explanations
+R064,reason_teacher,Better understanding of course/syllabus
+R064,reason_teacher,Practical/real-world experience
+R064,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R064,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R064,teacher_situations,When personal guidance and classroom interaction are needed.
+R065,reason_llm,Available anytime
+R065,reason_llm,Easy-to-understand language
+R065,reason_llm,Can explain the same concept in different ways
+R065,reason_llm,Helps with difficult concepts
+R065,reason_llm,Clear step-by-step explanations
+R065,reason_teacher,Practical/real-world experience
+R065,reason_teacher,Better understanding of course/syllabus
+R065,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R065,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R065,teacher_situations,When I need practical experience or detailed feedback.
+R066,reason_llm,Can explain the same concept in different ways
+R066,reason_llm,Available anytime
+R066,reason_llm,Easy-to-understand language
+R066,reason_llm,Faster responses
+R066,reason_teacher,More trustworthy for important academic decisions
+R066,reason_teacher,Practical/real-world experience
+R066,reason_teacher,Better follow-up and doubt solving
+R066,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R066,llm_situations,When I need quick explanations or have limited time.
+R066,teacher_situations,When I need practical experience or detailed feedback.
+R067,reason_llm,Personalized responses
+R067,reason_llm,More examples
+R067,reason_llm,Faster responses
+R067,reason_llm,Clear step-by-step explanations
+R067,reason_teacher,More trustworthy for important academic decisions
+R067,reason_teacher,Better understanding of course/syllabus
+R067,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R067,llm_situations,For quick revision and understanding theoretical topics.
+R067,teacher_situations,When I need practical experience or detailed feedback.
+R068,reason_llm,Available anytime
+R068,reason_llm,Can explain the same concept in different ways
+R068,reason_llm,Helps with difficult concepts
+R068,reason_llm,Personalized responses
+R068,reason_llm,Clear step-by-step explanations
+R068,reason_teacher,More trustworthy for important academic decisions
+R068,reason_teacher,Better follow-up and doubt solving
+R068,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R068,llm_situations,For quick revision and understanding theoretical topics.
+R068,teacher_situations,When I need practical experience or detailed feedback.
+R069,reason_llm,Easy-to-understand language
+R069,reason_llm,Available anytime
+R069,reason_llm,Can explain the same concept in different ways
+R069,reason_teacher,Better follow-up and doubt solving
+R069,reason_teacher,Practical/real-world experience
+R069,reason_teacher,More trustworthy for important academic decisions
+R069,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R069,llm_situations,For quick revision and understanding theoretical topics.
+R069,teacher_situations,For important academic decisions and clearing complex doubts.
+R070,reason_llm,Clear step-by-step explanations
+R070,reason_llm,More examples
+R070,reason_llm,Easy-to-understand language
+R070,reason_llm,Personalized responses
+R070,reason_teacher,Better understanding of course/syllabus
+R070,reason_teacher,More trustworthy for important academic decisions
+R070,reason_teacher,Practical/real-world experience
+R070,reason_teacher,Better follow-up and doubt solving
+R070,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R070,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R070,teacher_situations,For important academic decisions and clearing complex doubts.
+R071,reason_llm,Faster responses
+R071,reason_llm,Can explain the same concept in different ways
+R071,reason_teacher,Better understanding of course/syllabus
+R071,reason_teacher,Better follow-up and doubt solving
+R071,reason_teacher,More trustworthy for important academic decisions
+R071,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R071,llm_situations,For quick revision and understanding theoretical topics.
+R071,teacher_situations,When I need practical experience or detailed feedback.
+R072,reason_llm,More examples
+R072,reason_llm,Can explain the same concept in different ways
+R072,reason_llm,Faster responses
+R072,reason_teacher,Practical/real-world experience
+R072,reason_teacher,More trustworthy for important academic decisions
+R072,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R072,llm_situations,When I need quick explanations or have limited time.
+R072,teacher_situations,When I need practical experience or detailed feedback.
+R073,reason_llm,Easy-to-understand language
+R073,reason_llm,Faster responses
+R073,reason_llm,Helps with difficult concepts
+R073,reason_llm,Personalized responses
+R073,reason_teacher,Practical/real-world experience
+R073,reason_teacher,More trustworthy for important academic decisions
+R073,reason_teacher,Better follow-up and doubt solving
+R073,reason_teacher,Better understanding of course/syllabus
+R073,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R073,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R073,teacher_situations,For important academic decisions and clearing complex doubts.
+R074,reason_llm,Can explain the same concept in different ways
+R074,reason_llm,More examples
+R074,reason_llm,Helps with difficult concepts
+R074,reason_llm,Clear step-by-step explanations
+R074,reason_llm,Available anytime
+R074,reason_teacher,Better follow-up and doubt solving
+R074,reason_teacher,Practical/real-world experience
+R074,reason_teacher,More trustworthy for important academic decisions
+R074,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R074,llm_situations,For quick revision and understanding theoretical topics.
+R074,teacher_situations,When personal guidance and classroom interaction are needed.
+R075,reason_llm,Clear step-by-step explanations
+R075,reason_llm,Helps with difficult concepts
+R075,reason_llm,Faster responses
+R075,reason_teacher,More trustworthy for important academic decisions
+R075,reason_teacher,Better understanding of course/syllabus
+R075,reason_teacher,Better follow-up and doubt solving
+R075,reason_teacher,Practical/real-world experience
+R075,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R075,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R075,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R076,reason_llm,Faster responses
+R076,reason_llm,Available anytime
+R076,reason_llm,More examples
+R076,reason_llm,Clear step-by-step explanations
+R076,reason_llm,Personalized responses
+R076,reason_teacher,Better understanding of course/syllabus
+R076,reason_teacher,Practical/real-world experience
+R076,reason_teacher,Better follow-up and doubt solving
+R076,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R076,llm_situations,When I need quick explanations or have limited time.
+R076,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R077,reason_llm,Can explain the same concept in different ways
+R077,reason_llm,Easy-to-understand language
+R077,reason_llm,Clear step-by-step explanations
+R077,reason_llm,Available anytime
+R077,reason_teacher,Better follow-up and doubt solving
+R077,reason_teacher,Better understanding of course/syllabus
+R077,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R077,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R077,teacher_situations,When personal guidance and classroom interaction are needed.
+R078,reason_llm,Personalized responses
+R078,reason_llm,More examples
+R078,reason_llm,Can explain the same concept in different ways
+R078,reason_llm,Helps with difficult concepts
+R078,reason_llm,Available anytime
+R078,reason_teacher,More trustworthy for important academic decisions
+R078,reason_teacher,Better understanding of course/syllabus
+R078,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R078,llm_situations,When I need examples or personalized explanations.
+R078,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R079,reason_llm,Clear step-by-step explanations
+R079,reason_llm,Personalized responses
+R079,reason_llm,Helps with difficult concepts
+R079,reason_teacher,Better follow-up and doubt solving
+R079,reason_teacher,Better understanding of course/syllabus
+R079,reason_teacher,Practical/real-world experience
+R079,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R079,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R079,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R080,reason_llm,Easy-to-understand language
+R080,reason_llm,Clear step-by-step explanations
+R080,reason_llm,More examples
+R080,reason_teacher,Better understanding of course/syllabus
+R080,reason_teacher,More trustworthy for important academic decisions
+R080,reason_teacher,Better follow-up and doubt solving
+R080,reason_teacher,Practical/real-world experience
+R080,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R080,llm_situations,When I need examples or personalized explanations.
+R080,teacher_situations,When I need practical experience or detailed feedback.
+R081,reason_llm,Clear step-by-step explanations
+R081,reason_llm,Helps with difficult concepts
+R081,reason_llm,Faster responses
+R081,reason_teacher,Practical/real-world experience
+R081,reason_teacher,Better understanding of course/syllabus
+R081,reason_teacher,Better follow-up and doubt solving
+R081,reason_teacher,More trustworthy for important academic decisions
+R081,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R081,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R081,teacher_situations,For important academic decisions and clearing complex doubts.
+R082,reason_llm,Can explain the same concept in different ways
+R082,reason_llm,Clear step-by-step explanations
+R082,reason_llm,Available anytime
+R082,reason_teacher,Better understanding of course/syllabus
+R082,reason_teacher,Practical/real-world experience
+R082,reason_teacher,Better follow-up and doubt solving
+R082,reason_teacher,More trustworthy for important academic decisions
+R082,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R082,llm_situations,For quick revision and understanding theoretical topics.
+R082,teacher_situations,When personal guidance and classroom interaction are needed.
+R083,reason_llm,Available anytime
+R083,reason_llm,Faster responses
+R083,reason_llm,Clear step-by-step explanations
+R083,reason_llm,Personalized responses
+R083,reason_teacher,Better follow-up and doubt solving
+R083,reason_teacher,Practical/real-world experience
+R083,reason_teacher,Better understanding of course/syllabus
+R083,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R083,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R083,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R084,reason_llm,Easy-to-understand language
+R084,reason_llm,Faster responses
+R084,reason_llm,Helps with difficult concepts
+R084,reason_llm,Available anytime
+R084,reason_llm,More examples
+R084,reason_teacher,Practical/real-world experience
+R084,reason_teacher,Better understanding of course/syllabus
+R084,reason_teacher,Better follow-up and doubt solving
+R084,reason_teacher,More trustworthy for important academic decisions
+R084,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R084,llm_situations,For quick revision and understanding theoretical topics.
+R084,teacher_situations,For important academic decisions and clearing complex doubts.
+R085,reason_llm,Personalized responses
+R085,reason_llm,Clear step-by-step explanations
+R085,reason_llm,Faster responses
+R085,reason_teacher,Better understanding of course/syllabus
+R085,reason_teacher,Practical/real-world experience
+R085,reason_teacher,More trustworthy for important academic decisions
+R085,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R085,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R085,teacher_situations,When I need practical experience or detailed feedback.
+R086,reason_llm,Available anytime
+R086,reason_llm,Helps with difficult concepts
+R086,reason_teacher,Practical/real-world experience
+R086,reason_teacher,Better follow-up and doubt solving
+R086,reason_teacher,More trustworthy for important academic decisions
+R086,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R086,llm_situations,When I need quick explanations or have limited time.
+R086,teacher_situations,When personal guidance and classroom interaction are needed.
+R087,reason_llm,Helps with difficult concepts
+R087,reason_llm,More examples
+R087,reason_llm,Can explain the same concept in different ways
+R087,reason_llm,Faster responses
+R087,reason_teacher,More trustworthy for important academic decisions
+R087,reason_teacher,Better understanding of course/syllabus
+R087,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R087,llm_situations,When I need quick explanations or have limited time.
+R087,teacher_situations,For important academic decisions and clearing complex doubts.
+R088,reason_llm,Clear step-by-step explanations
+R088,reason_llm,Helps with difficult concepts
+R088,reason_llm,Easy-to-understand language
+R088,reason_llm,More examples
+R088,reason_llm,Personalized responses
+R088,reason_teacher,Better follow-up and doubt solving
+R088,reason_teacher,More trustworthy for important academic decisions
+R088,reason_teacher,Better understanding of course/syllabus
+R088,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R088,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R088,teacher_situations,For important academic decisions and clearing complex doubts.
+R089,reason_llm,Available anytime
+R089,reason_llm,Faster responses
+R089,reason_llm,More examples
+R089,reason_llm,Clear step-by-step explanations
+R089,reason_llm,Can explain the same concept in different ways
+R089,reason_teacher,Better understanding of course/syllabus
+R089,reason_teacher,Better follow-up and doubt solving
+R089,reason_teacher,More trustworthy for important academic decisions
+R089,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R089,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R089,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R090,reason_llm,Available anytime
+R090,reason_llm,Easy-to-understand language
+R090,reason_llm,Personalized responses
+R090,reason_llm,Clear step-by-step explanations
+R090,reason_teacher,Better follow-up and doubt solving
+R090,reason_teacher,Practical/real-world experience
+R090,reason_teacher,More trustworthy for important academic decisions
+R090,reason_teacher,Better understanding of course/syllabus
+R090,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R090,llm_situations,For quick revision and understanding theoretical topics.
+R090,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R091,reason_llm,Clear step-by-step explanations
+R091,reason_llm,Personalized responses
+R091,reason_llm,Can explain the same concept in different ways
+R091,reason_llm,Faster responses
+R091,reason_teacher,More trustworthy for important academic decisions
+R091,reason_teacher,Better follow-up and doubt solving
+R091,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R091,llm_situations,For quick revision and understanding theoretical topics.
+R091,teacher_situations,When personal guidance and classroom interaction are needed.
+R092,reason_llm,More examples
+R092,reason_llm,Available anytime
+R092,reason_llm,Faster responses
+R092,reason_llm,Can explain the same concept in different ways
+R092,reason_llm,Clear step-by-step explanations
+R092,reason_teacher,More trustworthy for important academic decisions
+R092,reason_teacher,Practical/real-world experience
+R092,reason_teacher,Better follow-up and doubt solving
+R092,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R092,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R092,teacher_situations,When I need practical experience or detailed feedback.
+R093,reason_llm,Clear step-by-step explanations
+R093,reason_llm,Available anytime
+R093,reason_llm,Can explain the same concept in different ways
+R093,reason_llm,Faster responses
+R093,reason_llm,Personalized responses
+R093,reason_teacher,Better understanding of course/syllabus
+R093,reason_teacher,Practical/real-world experience
+R093,reason_teacher,Better follow-up and doubt solving
+R093,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R093,llm_situations,When I need quick explanations or have limited time.
+R093,teacher_situations,When personal guidance and classroom interaction are needed.
+R094,reason_llm,More examples
+R094,reason_llm,Can explain the same concept in different ways
+R094,reason_teacher,More trustworthy for important academic decisions
+R094,reason_teacher,Better follow-up and doubt solving
+R094,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R094,llm_situations,For quick revision and understanding theoretical topics.
+R094,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R095,reason_llm,Clear step-by-step explanations
+R095,reason_llm,Can explain the same concept in different ways
+R095,reason_teacher,Better understanding of course/syllabus
+R095,reason_teacher,More trustworthy for important academic decisions
+R095,reason_teacher,Practical/real-world experience
+R095,reason_teacher,Better follow-up and doubt solving
+R095,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R095,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R095,teacher_situations,When personal guidance and classroom interaction are needed.
+R096,reason_llm,Clear step-by-step explanations
+R096,reason_llm,Helps with difficult concepts
+R096,reason_llm,More examples
+R096,reason_llm,Can explain the same concept in different ways
+R096,reason_llm,Faster responses
+R096,reason_teacher,Better follow-up and doubt solving
+R096,reason_teacher,Practical/real-world experience
+R096,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R096,llm_situations,When I need quick explanations or have limited time.
+R096,teacher_situations,When I need practical experience or detailed feedback.
+R097,reason_llm,Personalized responses
+R097,reason_llm,Clear step-by-step explanations
+R097,reason_llm,Helps with difficult concepts
+R097,reason_teacher,Better follow-up and doubt solving
+R097,reason_teacher,More trustworthy for important academic decisions
+R097,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R097,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R097,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R098,reason_llm,Can explain the same concept in different ways
+R098,reason_llm,Faster responses
+R098,reason_llm,Easy-to-understand language
+R098,reason_teacher,Better understanding of course/syllabus
+R098,reason_teacher,Better follow-up and doubt solving
+R098,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R098,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R098,teacher_situations,When I need practical experience or detailed feedback.
+R099,reason_llm,Clear step-by-step explanations
+R099,reason_llm,Can explain the same concept in different ways
+R099,reason_llm,Helps with difficult concepts
+R099,reason_llm,Available anytime
+R099,reason_teacher,Practical/real-world experience
+R099,reason_teacher,More trustworthy for important academic decisions
+R099,reason_teacher,Better understanding of course/syllabus
+R099,reason_teacher,Better follow-up and doubt solving
+R099,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R099,llm_situations,When I need quick explanations or have limited time.
+R099,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R100,reason_llm,More examples
+R100,reason_llm,Can explain the same concept in different ways
+R100,reason_llm,Helps with difficult concepts
+R100,reason_teacher,More trustworthy for important academic decisions
+R100,reason_teacher,Better follow-up and doubt solving
+R100,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R100,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R100,teacher_situations,For important academic decisions and clearing complex doubts.
+R101,reason_llm,Can explain the same concept in different ways
+R101,reason_llm,More examples
+R101,reason_llm,Faster responses
+R101,reason_teacher,Practical/real-world experience
+R101,reason_teacher,Better follow-up and doubt solving
+R101,reason_teacher,More trustworthy for important academic decisions
+R101,reason_teacher,Better understanding of course/syllabus
+R101,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R101,llm_situations,When I need quick explanations or have limited time.
+R101,teacher_situations,For important academic decisions and clearing complex doubts.
+R102,reason_llm,More examples
+R102,reason_llm,Faster responses
+R102,reason_llm,Personalized responses
+R102,reason_llm,Clear step-by-step explanations
+R102,reason_teacher,More trustworthy for important academic decisions
+R102,reason_teacher,Better follow-up and doubt solving
+R102,reason_teacher,Better understanding of course/syllabus
+R102,reason_teacher,Practical/real-world experience
+R102,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R102,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R102,teacher_situations,When I need practical experience or detailed feedback.
+R103,reason_llm,Helps with difficult concepts
+R103,reason_llm,Clear step-by-step explanations
+R103,reason_llm,Faster responses
+R103,reason_llm,Easy-to-understand language
+R103,reason_llm,Can explain the same concept in different ways
+R103,reason_teacher,Better understanding of course/syllabus
+R103,reason_teacher,Practical/real-world experience
+R103,reason_teacher,More trustworthy for important academic decisions
+R103,reason_teacher,Better follow-up and doubt solving
+R103,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R103,llm_situations,For quick revision and understanding theoretical topics.
+R103,teacher_situations,When personal guidance and classroom interaction are needed.
+R104,reason_llm,More examples
+R104,reason_llm,Available anytime
+R104,reason_teacher,Practical/real-world experience
+R104,reason_teacher,Better understanding of course/syllabus
+R104,reason_teacher,Better follow-up and doubt solving
+R104,reason_teacher,More trustworthy for important academic decisions
+R104,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R104,llm_situations,For quick revision and understanding theoretical topics.
+R104,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R105,reason_llm,Helps with difficult concepts
+R105,reason_llm,Available anytime
+R105,reason_llm,Faster responses
+R105,reason_llm,Clear step-by-step explanations
+R105,reason_teacher,Better follow-up and doubt solving
+R105,reason_teacher,Practical/real-world experience
+R105,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R105,llm_situations,When I need examples or personalized explanations.
+R105,teacher_situations,For important academic decisions and clearing complex doubts.
+R106,reason_llm,Helps with difficult concepts
+R106,reason_llm,Available anytime
+R106,reason_llm,More examples
+R106,reason_llm,Clear step-by-step explanations
+R106,reason_teacher,More trustworthy for important academic decisions
+R106,reason_teacher,Practical/real-world experience
+R106,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R106,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R106,teacher_situations,When personal guidance and classroom interaction are needed.
+R107,reason_llm,More examples
+R107,reason_llm,Helps with difficult concepts
+R107,reason_teacher,Practical/real-world experience
+R107,reason_teacher,More trustworthy for important academic decisions
+R107,reason_teacher,Better understanding of course/syllabus
+R107,reason_teacher,Better follow-up and doubt solving
+R107,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R107,llm_situations,When I need examples or personalized explanations.
+R107,teacher_situations,For important academic decisions and clearing complex doubts.
+R108,reason_llm,Personalized responses
+R108,reason_llm,Available anytime
+R108,reason_llm,More examples
+R108,reason_llm,Helps with difficult concepts
+R108,reason_llm,Easy-to-understand language
+R108,reason_teacher,Better follow-up and doubt solving
+R108,reason_teacher,Better understanding of course/syllabus
+R108,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R108,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R108,teacher_situations,When personal guidance and classroom interaction are needed.
+R109,reason_llm,Helps with difficult concepts
+R109,reason_llm,Available anytime
+R109,reason_llm,Faster responses
+R109,reason_llm,Can explain the same concept in different ways
+R109,reason_llm,Personalized responses
+R109,reason_teacher,More trustworthy for important academic decisions
+R109,reason_teacher,Better understanding of course/syllabus
+R109,reason_teacher,Practical/real-world experience
+R109,reason_teacher,Better follow-up and doubt solving
+R109,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R109,llm_situations,When I need quick explanations or have limited time.
+R109,teacher_situations,When personal guidance and classroom interaction are needed.
+R110,reason_llm,Easy-to-understand language
+R110,reason_llm,Faster responses
+R110,reason_llm,Can explain the same concept in different ways
+R110,reason_llm,Helps with difficult concepts
+R110,reason_teacher,Better understanding of course/syllabus
+R110,reason_teacher,Practical/real-world experience
+R110,reason_teacher,More trustworthy for important academic decisions
+R110,reason_teacher,Better follow-up and doubt solving
+R110,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R110,llm_situations,When I need examples or personalized explanations.
+R110,teacher_situations,When personal guidance and classroom interaction are needed.
+R111,reason_llm,Easy-to-understand language
+R111,reason_llm,More examples
+R111,reason_teacher,Practical/real-world experience
+R111,reason_teacher,More trustworthy for important academic decisions
+R111,reason_teacher,Better understanding of course/syllabus
+R111,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R111,llm_situations,When I need examples or personalized explanations.
+R111,teacher_situations,When I need practical experience or detailed feedback.
+R112,reason_llm,Easy-to-understand language
+R112,reason_llm,Can explain the same concept in different ways
+R112,reason_llm,Faster responses
+R112,reason_llm,Available anytime
+R112,reason_teacher,Practical/real-world experience
+R112,reason_teacher,Better follow-up and doubt solving
+R112,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R112,llm_situations,When I need examples or personalized explanations.
+R112,teacher_situations,For important academic decisions and clearing complex doubts.
+R113,reason_llm,Personalized responses
+R113,reason_llm,Can explain the same concept in different ways
+R113,reason_llm,Easy-to-understand language
+R113,reason_llm,More examples
+R113,reason_teacher,More trustworthy for important academic decisions
+R113,reason_teacher,Better understanding of course/syllabus
+R113,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R113,llm_situations,When I need quick explanations or have limited time.
+R113,teacher_situations,For important academic decisions and clearing complex doubts.
+R114,reason_llm,Easy-to-understand language
+R114,reason_llm,Helps with difficult concepts
+R114,reason_llm,More examples
+R114,reason_teacher,Better follow-up and doubt solving
+R114,reason_teacher,Better understanding of course/syllabus
+R114,reason_teacher,Practical/real-world experience
+R114,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R114,llm_situations,When I need examples or personalized explanations.
+R114,teacher_situations,When personal guidance and classroom interaction are needed.
+R115,reason_llm,Easy-to-understand language
+R115,reason_llm,Personalized responses
+R115,reason_teacher,Better understanding of course/syllabus
+R115,reason_teacher,Better follow-up and doubt solving
+R115,reason_teacher,Practical/real-world experience
+R115,reason_teacher,More trustworthy for important academic decisions
+R115,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R115,llm_situations,For quick revision and understanding theoretical topics.
+R115,teacher_situations,For important academic decisions and clearing complex doubts.
+R116,reason_llm,Can explain the same concept in different ways
+R116,reason_llm,Helps with difficult concepts
+R116,reason_llm,Easy-to-understand language
+R116,reason_teacher,Practical/real-world experience
+R116,reason_teacher,More trustworthy for important academic decisions
+R116,reason_teacher,Better understanding of course/syllabus
+R116,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R116,llm_situations,When I need examples or personalized explanations.
+R116,teacher_situations,For important academic decisions and clearing complex doubts.
+R117,reason_llm,Clear step-by-step explanations
+R117,reason_llm,Helps with difficult concepts
+R117,reason_llm,Available anytime
+R117,reason_llm,Personalized responses
+R117,reason_llm,Easy-to-understand language
+R117,reason_teacher,More trustworthy for important academic decisions
+R117,reason_teacher,Better understanding of course/syllabus
+R117,reason_teacher,Practical/real-world experience
+R117,reason_teacher,Better follow-up and doubt solving
+R117,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R117,llm_situations,When I need examples or personalized explanations.
+R117,teacher_situations,When personal guidance and classroom interaction are needed.
+R118,reason_llm,More examples
+R118,reason_llm,Available anytime
+R118,reason_llm,Helps with difficult concepts
+R118,reason_llm,Clear step-by-step explanations
+R118,reason_llm,Easy-to-understand language
+R118,reason_teacher,Better follow-up and doubt solving
+R118,reason_teacher,Better understanding of course/syllabus
+R118,reason_teacher,Practical/real-world experience
+R118,reason_teacher,More trustworthy for important academic decisions
+R118,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R118,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R118,teacher_situations,When I need practical experience or detailed feedback.
+R119,reason_llm,More examples
+R119,reason_llm,Faster responses
+R119,reason_llm,Easy-to-understand language
+R119,reason_llm,Clear step-by-step explanations
+R119,reason_llm,Available anytime
+R119,reason_teacher,Practical/real-world experience
+R119,reason_teacher,Better understanding of course/syllabus
+R119,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R119,llm_situations,When I need examples or personalized explanations.
+R119,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R120,reason_llm,Clear step-by-step explanations
+R120,reason_llm,Faster responses
+R120,reason_teacher,Practical/real-world experience
+R120,reason_teacher,Better understanding of course/syllabus
+R120,reason_teacher,Better follow-up and doubt solving
+R120,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R120,llm_situations,When I need examples or personalized explanations.
+R120,teacher_situations,When personal guidance and classroom interaction are needed.
+R121,reason_llm,Available anytime
+R121,reason_llm,More examples
+R121,reason_llm,Can explain the same concept in different ways
+R121,reason_llm,Personalized responses
+R121,reason_llm,Easy-to-understand language
+R121,reason_teacher,Practical/real-world experience
+R121,reason_teacher,Better follow-up and doubt solving
+R121,reason_teacher,Better understanding of course/syllabus
+R121,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R121,llm_situations,When I need quick explanations or have limited time.
+R121,teacher_situations,When I need practical experience or detailed feedback.
+R122,reason_llm,Can explain the same concept in different ways
+R122,reason_llm,Helps with difficult concepts
+R122,reason_teacher,Better understanding of course/syllabus
+R122,reason_teacher,More trustworthy for important academic decisions
+R122,reason_teacher,Better follow-up and doubt solving
+R122,reason_teacher,Practical/real-world experience
+R122,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R122,llm_situations,For quick revision and understanding theoretical topics.
+R122,teacher_situations,When I need practical experience or detailed feedback.
+R123,reason_llm,More examples
+R123,reason_llm,Helps with difficult concepts
+R123,reason_llm,Clear step-by-step explanations
+R123,reason_llm,Personalized responses
+R123,reason_llm,Can explain the same concept in different ways
+R123,reason_teacher,Better understanding of course/syllabus
+R123,reason_teacher,Practical/real-world experience
+R123,reason_teacher,Better follow-up and doubt solving
+R123,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R123,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R123,teacher_situations,When personal guidance and classroom interaction are needed.
+R124,reason_llm,Faster responses
+R124,reason_llm,Clear step-by-step explanations
+R124,reason_llm,Available anytime
+R124,reason_llm,More examples
+R124,reason_teacher,Better understanding of course/syllabus
+R124,reason_teacher,More trustworthy for important academic decisions
+R124,reason_teacher,Practical/real-world experience
+R124,reason_teacher,Better follow-up and doubt solving
+R124,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R124,llm_situations,When I need examples or personalized explanations.
+R124,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R125,reason_llm,Clear step-by-step explanations
+R125,reason_llm,More examples
+R125,reason_llm,Easy-to-understand language
+R125,reason_teacher,Practical/real-world experience
+R125,reason_teacher,More trustworthy for important academic decisions
+R125,reason_teacher,Better understanding of course/syllabus
+R125,reason_teacher,Better follow-up and doubt solving
+R125,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R125,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R125,teacher_situations,When I need practical experience or detailed feedback.
+R126,reason_llm,Can explain the same concept in different ways
+R126,reason_llm,Available anytime
+R126,reason_llm,Helps with difficult concepts
+R126,reason_llm,Clear step-by-step explanations
+R126,reason_llm,More examples
+R126,reason_teacher,Better follow-up and doubt solving
+R126,reason_teacher,Better understanding of course/syllabus
+R126,reason_teacher,More trustworthy for important academic decisions
+R126,reason_teacher,Practical/real-world experience
+R126,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R126,llm_situations,When I need quick explanations or have limited time.
+R126,teacher_situations,For important academic decisions and clearing complex doubts.
+R127,reason_llm,Easy-to-understand language
+R127,reason_llm,Available anytime
+R127,reason_llm,Faster responses
+R127,reason_llm,Personalized responses
+R127,reason_teacher,Better understanding of course/syllabus
+R127,reason_teacher,More trustworthy for important academic decisions
+R127,reason_teacher,Better follow-up and doubt solving
+R127,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R127,llm_situations,When I need examples or personalized explanations.
+R127,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R128,reason_llm,Can explain the same concept in different ways
+R128,reason_llm,Clear step-by-step explanations
+R128,reason_llm,Available anytime
+R128,reason_llm,Helps with difficult concepts
+R128,reason_llm,More examples
+R128,reason_teacher,Better understanding of course/syllabus
+R128,reason_teacher,Better follow-up and doubt solving
+R128,reason_teacher,More trustworthy for important academic decisions
+R128,reason_teacher,Practical/real-world experience
+R128,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R128,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R128,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R129,reason_llm,Clear step-by-step explanations
+R129,reason_llm,Faster responses
+R129,reason_llm,Personalized responses
+R129,reason_llm,Available anytime
+R129,reason_teacher,Practical/real-world experience
+R129,reason_teacher,Better understanding of course/syllabus
+R129,reason_teacher,Better follow-up and doubt solving
+R129,reason_teacher,More trustworthy for important academic decisions
+R129,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R129,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R129,teacher_situations,When personal guidance and classroom interaction are needed.
+R130,reason_llm,More examples
+R130,reason_llm,Helps with difficult concepts
+R130,reason_llm,Faster responses
+R130,reason_teacher,Practical/real-world experience
+R130,reason_teacher,Better follow-up and doubt solving
+R130,reason_teacher,Better understanding of course/syllabus
+R130,reason_teacher,More trustworthy for important academic decisions
+R130,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R130,llm_situations,For quick revision and understanding theoretical topics.
+R130,teacher_situations,When I need practical experience or detailed feedback.
+R131,reason_llm,Clear step-by-step explanations
+R131,reason_llm,Personalized responses
+R131,reason_teacher,Better understanding of course/syllabus
+R131,reason_teacher,Better follow-up and doubt solving
+R131,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R131,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R131,teacher_situations,When I need practical experience or detailed feedback.
+R132,reason_llm,Easy-to-understand language
+R132,reason_llm,Available anytime
+R132,reason_llm,Faster responses
+R132,reason_teacher,Better understanding of course/syllabus
+R132,reason_teacher,Better follow-up and doubt solving
+R132,reason_teacher,Practical/real-world experience
+R132,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R132,llm_situations,For quick revision and understanding theoretical topics.
+R132,teacher_situations,When I need practical experience or detailed feedback.
+R133,reason_llm,More examples
+R133,reason_llm,Helps with difficult concepts
+R133,reason_llm,Clear step-by-step explanations
+R133,reason_llm,Easy-to-understand language
+R133,reason_llm,Available anytime
+R133,reason_teacher,Practical/real-world experience
+R133,reason_teacher,More trustworthy for important academic decisions
+R133,reason_teacher,Better understanding of course/syllabus
+R133,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R133,llm_situations,For quick revision and understanding theoretical topics.
+R133,teacher_situations,When personal guidance and classroom interaction are needed.
+R134,reason_llm,Clear step-by-step explanations
+R134,reason_llm,Easy-to-understand language
+R134,reason_llm,More examples
+R134,reason_llm,Helps with difficult concepts
+R134,reason_llm,Faster responses
+R134,reason_teacher,Practical/real-world experience
+R134,reason_teacher,More trustworthy for important academic decisions
+R134,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R134,llm_situations,When I need examples or personalized explanations.
+R134,teacher_situations,When personal guidance and classroom interaction are needed.
+R135,reason_llm,Easy-to-understand language
+R135,reason_llm,More examples
+R135,reason_teacher,Better follow-up and doubt solving
+R135,reason_teacher,Better understanding of course/syllabus
+R135,reason_teacher,Practical/real-world experience
+R135,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R135,llm_situations,When I need examples or personalized explanations.
+R135,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R136,reason_llm,More examples
+R136,reason_llm,Clear step-by-step explanations
+R136,reason_teacher,More trustworthy for important academic decisions
+R136,reason_teacher,Practical/real-world experience
+R136,reason_teacher,Better understanding of course/syllabus
+R136,reason_teacher,Better follow-up and doubt solving
+R136,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R136,llm_situations,For quick revision and understanding theoretical topics.
+R136,teacher_situations,For important academic decisions and clearing complex doubts.
+R137,reason_llm,Can explain the same concept in different ways
+R137,reason_llm,More examples
+R137,reason_llm,Personalized responses
+R137,reason_llm,Available anytime
+R137,reason_teacher,Better follow-up and doubt solving
+R137,reason_teacher,Practical/real-world experience
+R137,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R137,llm_situations,When I need examples or personalized explanations.
+R137,teacher_situations,When personal guidance and classroom interaction are needed.
+R138,reason_llm,Can explain the same concept in different ways
+R138,reason_llm,Faster responses
+R138,reason_llm,Available anytime
+R138,reason_llm,Clear step-by-step explanations
+R138,reason_teacher,Practical/real-world experience
+R138,reason_teacher,Better follow-up and doubt solving
+R138,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R138,llm_situations,When I need examples or personalized explanations.
+R138,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R139,reason_llm,More examples
+R139,reason_llm,Helps with difficult concepts
+R139,reason_llm,Clear step-by-step explanations
+R139,reason_llm,Available anytime
+R139,reason_llm,Faster responses
+R139,reason_teacher,Better follow-up and doubt solving
+R139,reason_teacher,Better understanding of course/syllabus
+R139,reason_teacher,Practical/real-world experience
+R139,reason_teacher,More trustworthy for important academic decisions
+R139,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R139,llm_situations,When I need examples or personalized explanations.
+R139,teacher_situations,When personal guidance and classroom interaction are needed.
+R140,reason_llm,Can explain the same concept in different ways
+R140,reason_llm,Clear step-by-step explanations
+R140,reason_llm,Available anytime
+R140,reason_llm,Helps with difficult concepts
+R140,reason_teacher,Better follow-up and doubt solving
+R140,reason_teacher,Better understanding of course/syllabus
+R140,reason_teacher,Practical/real-world experience
+R140,reason_teacher,More trustworthy for important academic decisions
+R140,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R140,llm_situations,When I need quick explanations or have limited time.
+R140,teacher_situations,When personal guidance and classroom interaction are needed.
+R141,reason_llm,Easy-to-understand language
+R141,reason_llm,Available anytime
+R141,reason_llm,More examples
+R141,reason_teacher,Practical/real-world experience
+R141,reason_teacher,Better follow-up and doubt solving
+R141,reason_teacher,Better understanding of course/syllabus
+R141,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R141,llm_situations,For quick revision and understanding theoretical topics.
+R141,teacher_situations,When personal guidance and classroom interaction are needed.
+R142,reason_llm,Easy-to-understand language
+R142,reason_llm,Helps with difficult concepts
+R142,reason_llm,Can explain the same concept in different ways
+R142,reason_llm,More examples
+R142,reason_teacher,More trustworthy for important academic decisions
+R142,reason_teacher,Practical/real-world experience
+R142,reason_teacher,Better follow-up and doubt solving
+R142,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R142,llm_situations,For quick revision and understanding theoretical topics.
+R142,teacher_situations,For important academic decisions and clearing complex doubts.
+R143,reason_llm,Personalized responses
+R143,reason_llm,Available anytime
+R143,reason_llm,Helps with difficult concepts
+R143,reason_llm,Clear step-by-step explanations
+R143,reason_llm,More examples
+R143,reason_teacher,Practical/real-world experience
+R143,reason_teacher,Better follow-up and doubt solving
+R143,reason_teacher,More trustworthy for important academic decisions
+R143,reason_teacher,Better understanding of course/syllabus
+R143,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R143,llm_situations,When I need quick explanations or have limited time.
+R143,teacher_situations,For important academic decisions and clearing complex doubts.
+R144,reason_llm,Faster responses
+R144,reason_llm,Personalized responses
+R144,reason_llm,Can explain the same concept in different ways
+R144,reason_teacher,Better follow-up and doubt solving
+R144,reason_teacher,Practical/real-world experience
+R144,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R144,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R144,teacher_situations,When personal guidance and classroom interaction are needed.
+R145,reason_llm,Available anytime
+R145,reason_llm,Personalized responses
+R145,reason_llm,Can explain the same concept in different ways
+R145,reason_llm,More examples
+R145,reason_llm,Clear step-by-step explanations
+R145,reason_teacher,Better understanding of course/syllabus
+R145,reason_teacher,Practical/real-world experience
+R145,reason_teacher,More trustworthy for important academic decisions
+R145,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R145,llm_situations,When I need quick explanations or have limited time.
+R145,teacher_situations,For important academic decisions and clearing complex doubts.
+R146,reason_llm,More examples
+R146,reason_llm,Easy-to-understand language
+R146,reason_teacher,Better follow-up and doubt solving
+R146,reason_teacher,Practical/real-world experience
+R146,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R146,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R146,teacher_situations,When I need practical experience or detailed feedback.
+R147,reason_llm,More examples
+R147,reason_llm,Helps with difficult concepts
+R147,reason_teacher,Better understanding of course/syllabus
+R147,reason_teacher,More trustworthy for important academic decisions
+R147,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R147,llm_situations,For quick revision and understanding theoretical topics.
+R147,teacher_situations,For important academic decisions and clearing complex doubts.
+R148,reason_llm,Personalized responses
+R148,reason_llm,Helps with difficult concepts
+R148,reason_llm,Can explain the same concept in different ways
+R148,reason_llm,Available anytime
+R148,reason_llm,More examples
+R148,reason_teacher,Practical/real-world experience
+R148,reason_teacher,More trustworthy for important academic decisions
+R148,reason_teacher,Better understanding of course/syllabus
+R148,reason_teacher,Better follow-up and doubt solving
+R148,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R148,llm_situations,When I need examples or personalized explanations.
+R148,teacher_situations,When I need practical experience or detailed feedback.
+R149,reason_llm,Personalized responses
+R149,reason_llm,Clear step-by-step explanations
+R149,reason_teacher,Practical/real-world experience
+R149,reason_teacher,Better follow-up and doubt solving
+R149,reason_teacher,Better understanding of course/syllabus
+R149,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R149,llm_situations,For quick revision and understanding theoretical topics.
+R149,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R150,reason_llm,Helps with difficult concepts
+R150,reason_llm,Clear step-by-step explanations
+R150,reason_teacher,Practical/real-world experience
+R150,reason_teacher,Better follow-up and doubt solving
+R150,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R150,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R150,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R151,reason_llm,More examples
+R151,reason_llm,Can explain the same concept in different ways
+R151,reason_llm,Easy-to-understand language
+R151,reason_teacher,Practical/real-world experience
+R151,reason_teacher,Better follow-up and doubt solving
+R151,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R151,llm_situations,For quick revision and understanding theoretical topics.
+R151,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R152,reason_llm,Personalized responses
+R152,reason_llm,More examples
+R152,reason_teacher,Better follow-up and doubt solving
+R152,reason_teacher,Practical/real-world experience
+R152,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R152,llm_situations,When I need quick explanations or have limited time.
+R152,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R153,reason_llm,Helps with difficult concepts
+R153,reason_llm,Available anytime
+R153,reason_llm,Can explain the same concept in different ways
+R153,reason_teacher,Better follow-up and doubt solving
+R153,reason_teacher,More trustworthy for important academic decisions
+R153,reason_teacher,Better understanding of course/syllabus
+R153,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R153,llm_situations,When I need quick explanations or have limited time.
+R153,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R154,reason_llm,Faster responses
+R154,reason_llm,More examples
+R154,reason_llm,Available anytime
+R154,reason_llm,Can explain the same concept in different ways
+R154,reason_llm,Personalized responses
+R154,reason_teacher,Better understanding of course/syllabus
+R154,reason_teacher,Practical/real-world experience
+R154,reason_teacher,Better follow-up and doubt solving
+R154,reason_teacher,More trustworthy for important academic decisions
+R154,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R154,llm_situations,For quick revision and understanding theoretical topics.
+R154,teacher_situations,When I need practical experience or detailed feedback.
+R155,reason_llm,Can explain the same concept in different ways
+R155,reason_llm,Easy-to-understand language
+R155,reason_llm,Available anytime
+R155,reason_llm,Clear step-by-step explanations
+R155,reason_llm,Personalized responses
+R155,reason_teacher,Practical/real-world experience
+R155,reason_teacher,Better understanding of course/syllabus
+R155,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R155,llm_situations,For quick revision and understanding theoretical topics.
+R155,teacher_situations,When I need practical experience or detailed feedback.
+R156,reason_llm,More examples
+R156,reason_llm,Personalized responses
+R156,reason_llm,Available anytime
+R156,reason_teacher,Better follow-up and doubt solving
+R156,reason_teacher,Practical/real-world experience
+R156,reason_teacher,Better understanding of course/syllabus
+R156,reason_teacher,More trustworthy for important academic decisions
+R156,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R156,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R156,teacher_situations,When I need practical experience or detailed feedback.
+R157,reason_llm,Easy-to-understand language
+R157,reason_llm,Available anytime
+R157,reason_llm,Clear step-by-step explanations
+R157,reason_llm,Can explain the same concept in different ways
+R157,reason_llm,Helps with difficult concepts
+R157,reason_teacher,Better understanding of course/syllabus
+R157,reason_teacher,More trustworthy for important academic decisions
+R157,reason_teacher,Better follow-up and doubt solving
+R157,reason_teacher,Practical/real-world experience
+R157,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R157,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R157,teacher_situations,For important academic decisions and clearing complex doubts.
+R158,reason_llm,Can explain the same concept in different ways
+R158,reason_llm,Easy-to-understand language
+R158,reason_llm,More examples
+R158,reason_llm,Faster responses
+R158,reason_llm,Clear step-by-step explanations
+R158,reason_teacher,Better follow-up and doubt solving
+R158,reason_teacher,Practical/real-world experience
+R158,reason_teacher,Better understanding of course/syllabus
+R158,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R158,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R158,teacher_situations,For important academic decisions and clearing complex doubts.
+R159,reason_llm,Available anytime
+R159,reason_llm,Easy-to-understand language
+R159,reason_teacher,Practical/real-world experience
+R159,reason_teacher,Better understanding of course/syllabus
+R159,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R159,llm_situations,When I need examples or personalized explanations.
+R159,teacher_situations,When personal guidance and classroom interaction are needed.
+R160,reason_llm,More examples
+R160,reason_llm,Available anytime
+R160,reason_llm,Clear step-by-step explanations
+R160,reason_teacher,More trustworthy for important academic decisions
+R160,reason_teacher,Better follow-up and doubt solving
+R160,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R160,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R160,teacher_situations,When I need practical experience or detailed feedback.
+R161,reason_llm,Helps with difficult concepts
+R161,reason_llm,Easy-to-understand language
+R161,reason_teacher,More trustworthy for important academic decisions
+R161,reason_teacher,Better follow-up and doubt solving
+R161,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R161,llm_situations,For quick revision and understanding theoretical topics.
+R161,teacher_situations,For important academic decisions and clearing complex doubts.
+R162,reason_llm,Helps with difficult concepts
+R162,reason_llm,Available anytime
+R162,reason_teacher,Practical/real-world experience
+R162,reason_teacher,More trustworthy for important academic decisions
+R162,reason_teacher,Better understanding of course/syllabus
+R162,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R162,llm_situations,When I need examples or personalized explanations.
+R162,teacher_situations,For important academic decisions and clearing complex doubts.
+R163,reason_llm,More examples
+R163,reason_llm,Easy-to-understand language
+R163,reason_llm,Available anytime
+R163,reason_llm,Personalized responses
+R163,reason_llm,Helps with difficult concepts
+R163,reason_teacher,Better follow-up and doubt solving
+R163,reason_teacher,Better understanding of course/syllabus
+R163,reason_teacher,Practical/real-world experience
+R163,reason_teacher,More trustworthy for important academic decisions
+R163,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R163,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R163,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R164,reason_llm,Can explain the same concept in different ways
+R164,reason_llm,More examples
+R164,reason_teacher,Better understanding of course/syllabus
+R164,reason_teacher,Better follow-up and doubt solving
+R164,reason_teacher,More trustworthy for important academic decisions
+R164,reason_teacher,Practical/real-world experience
+R164,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R164,llm_situations,When I need quick explanations or have limited time.
+R164,teacher_situations,For important academic decisions and clearing complex doubts.
+R165,reason_llm,Can explain the same concept in different ways
+R165,reason_llm,Helps with difficult concepts
+R165,reason_llm,Easy-to-understand language
+R165,reason_llm,Personalized responses
+R165,reason_teacher,Better follow-up and doubt solving
+R165,reason_teacher,Better understanding of course/syllabus
+R165,reason_teacher,Practical/real-world experience
+R165,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R165,llm_situations,For quick revision and understanding theoretical topics.
+R165,teacher_situations,When personal guidance and classroom interaction are needed.
+R166,reason_llm,Easy-to-understand language
+R166,reason_llm,Available anytime
+R166,reason_llm,Faster responses
+R166,reason_teacher,Better understanding of course/syllabus
+R166,reason_teacher,More trustworthy for important academic decisions
+R166,reason_teacher,Practical/real-world experience
+R166,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R166,llm_situations,For quick revision and understanding theoretical topics.
+R166,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R167,reason_llm,Faster responses
+R167,reason_llm,More examples
+R167,reason_teacher,Better follow-up and doubt solving
+R167,reason_teacher,More trustworthy for important academic decisions
+R167,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R167,llm_situations,For quick revision and understanding theoretical topics.
+R167,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R168,reason_llm,More examples
+R168,reason_llm,Easy-to-understand language
+R168,reason_llm,Personalized responses
+R168,reason_llm,Clear step-by-step explanations
+R168,reason_llm,Helps with difficult concepts
+R168,reason_teacher,More trustworthy for important academic decisions
+R168,reason_teacher,Better follow-up and doubt solving
+R168,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R168,llm_situations,When I need quick explanations or have limited time.
+R168,teacher_situations,When personal guidance and classroom interaction are needed.
+R169,reason_llm,Helps with difficult concepts
+R169,reason_llm,Easy-to-understand language
+R169,reason_llm,More examples
+R169,reason_llm,Clear step-by-step explanations
+R169,reason_llm,Available anytime
+R169,reason_teacher,Better understanding of course/syllabus
+R169,reason_teacher,More trustworthy for important academic decisions
+R169,reason_teacher,Better follow-up and doubt solving
+R169,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R169,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R169,teacher_situations,When personal guidance and classroom interaction are needed.
+R170,reason_llm,Helps with difficult concepts
+R170,reason_llm,Easy-to-understand language
+R170,reason_llm,Personalized responses
+R170,reason_llm,Faster responses
+R170,reason_teacher,Better follow-up and doubt solving
+R170,reason_teacher,Practical/real-world experience
+R170,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R170,llm_situations,When I need quick explanations or have limited time.
+R170,teacher_situations,When personal guidance and classroom interaction are needed.
+R171,reason_llm,Available anytime
+R171,reason_llm,Easy-to-understand language
+R171,reason_llm,Clear step-by-step explanations
+R171,reason_llm,Can explain the same concept in different ways
+R171,reason_llm,Helps with difficult concepts
+R171,reason_teacher,Better understanding of course/syllabus
+R171,reason_teacher,Practical/real-world experience
+R171,reason_teacher,More trustworthy for important academic decisions
+R171,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R171,llm_situations,When I need quick explanations or have limited time.
+R171,teacher_situations,For important academic decisions and clearing complex doubts.
+R172,reason_llm,Can explain the same concept in different ways
+R172,reason_llm,Easy-to-understand language
+R172,reason_llm,Available anytime
+R172,reason_llm,Helps with difficult concepts
+R172,reason_teacher,Better understanding of course/syllabus
+R172,reason_teacher,Practical/real-world experience
+R172,reason_teacher,More trustworthy for important academic decisions
+R172,reason_teacher,Better follow-up and doubt solving
+R172,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R172,llm_situations,When I need examples or personalized explanations.
+R172,teacher_situations,For important academic decisions and clearing complex doubts.
+R173,reason_llm,More examples
+R173,reason_llm,Can explain the same concept in different ways
+R173,reason_llm,Personalized responses
+R173,reason_llm,Helps with difficult concepts
+R173,reason_llm,Easy-to-understand language
+R173,reason_teacher,Better understanding of course/syllabus
+R173,reason_teacher,Practical/real-world experience
+R173,reason_teacher,More trustworthy for important academic decisions
+R173,reason_teacher,Better follow-up and doubt solving
+R173,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R173,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R173,teacher_situations,When personal guidance and classroom interaction are needed.
+R174,reason_llm,Faster responses
+R174,reason_llm,Clear step-by-step explanations
+R174,reason_llm,Helps with difficult concepts
+R174,reason_teacher,Better follow-up and doubt solving
+R174,reason_teacher,Practical/real-world experience
+R174,reason_teacher,Better understanding of course/syllabus
+R174,reason_teacher,More trustworthy for important academic decisions
+R174,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R174,llm_situations,For quick revision and understanding theoretical topics.
+R174,teacher_situations,When I need practical experience or detailed feedback.
+R175,reason_llm,Helps with difficult concepts
+R175,reason_llm,Clear step-by-step explanations
+R175,reason_llm,More examples
+R175,reason_llm,Faster responses
+R175,reason_llm,Easy-to-understand language
+R175,reason_teacher,Practical/real-world experience
+R175,reason_teacher,More trustworthy for important academic decisions
+R175,reason_teacher,Better understanding of course/syllabus
+R175,reason_teacher,Better follow-up and doubt solving
+R175,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R175,llm_situations,When I need quick explanations or have limited time.
+R175,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R176,reason_llm,Helps with difficult concepts
+R176,reason_llm,Personalized responses
+R176,reason_llm,Faster responses
+R176,reason_llm,Clear step-by-step explanations
+R176,reason_teacher,More trustworthy for important academic decisions
+R176,reason_teacher,Better follow-up and doubt solving
+R176,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R176,llm_situations,When I need examples or personalized explanations.
+R176,teacher_situations,When personal guidance and classroom interaction are needed.
+R177,reason_llm,More examples
+R177,reason_llm,Available anytime
+R177,reason_llm,Can explain the same concept in different ways
+R177,reason_teacher,Practical/real-world experience
+R177,reason_teacher,Better follow-up and doubt solving
+R177,reason_teacher,Better understanding of course/syllabus
+R177,reason_teacher,More trustworthy for important academic decisions
+R177,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R177,llm_situations,When I need quick explanations or have limited time.
+R177,teacher_situations,When personal guidance and classroom interaction are needed.
+R178,reason_llm,More examples
+R178,reason_llm,Can explain the same concept in different ways
+R178,reason_llm,Easy-to-understand language
+R178,reason_llm,Helps with difficult concepts
+R178,reason_teacher,More trustworthy for important academic decisions
+R178,reason_teacher,Better understanding of course/syllabus
+R178,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R178,llm_situations,When I need examples or personalized explanations.
+R178,teacher_situations,For important academic decisions and clearing complex doubts.
+R179,reason_llm,Easy-to-understand language
+R179,reason_llm,Personalized responses
+R179,reason_llm,Clear step-by-step explanations
+R179,reason_llm,More examples
+R179,reason_teacher,Better understanding of course/syllabus
+R179,reason_teacher,More trustworthy for important academic decisions
+R179,reason_teacher,Better follow-up and doubt solving
+R179,reason_teacher,Practical/real-world experience
+R179,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R179,llm_situations,When I need examples or personalized explanations.
+R179,teacher_situations,When personal guidance and classroom interaction are needed.
+R180,reason_llm,Personalized responses
+R180,reason_llm,Faster responses
+R180,reason_llm,Available anytime
+R180,reason_teacher,Better understanding of course/syllabus
+R180,reason_teacher,More trustworthy for important academic decisions
+R180,reason_overall,Teachers are more useful for clearing doubts and providing practical examples.
+R180,llm_situations,For quick revision and understanding theoretical topics.
+R180,teacher_situations,When personal guidance and classroom interaction are needed.
+R181,reason_llm,Can explain the same concept in different ways
+R181,reason_llm,Faster responses
+R181,reason_teacher,Better understanding of course/syllabus
+R181,reason_teacher,Better follow-up and doubt solving
+R181,reason_teacher,Practical/real-world experience
+R181,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R181,llm_situations,When I need examples or personalized explanations.
+R181,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R182,reason_llm,Available anytime
+R182,reason_llm,Faster responses
+R182,reason_llm,Personalized responses
+R182,reason_llm,Can explain the same concept in different ways
+R182,reason_llm,Easy-to-understand language
+R182,reason_teacher,Practical/real-world experience
+R182,reason_teacher,More trustworthy for important academic decisions
+R182,reason_teacher,Better understanding of course/syllabus
+R182,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R182,llm_situations,When I need examples or personalized explanations.
+R182,teacher_situations,When I need practical experience or detailed feedback.
+R183,reason_llm,More examples
+R183,reason_llm,Easy-to-understand language
+R183,reason_teacher,Better understanding of course/syllabus
+R183,reason_teacher,Better follow-up and doubt solving
+R183,reason_teacher,Practical/real-world experience
+R183,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R183,llm_situations,When I need quick explanations or have limited time.
+R183,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R184,reason_llm,Personalized responses
+R184,reason_llm,Helps with difficult concepts
+R184,reason_llm,Can explain the same concept in different ways
+R184,reason_llm,Easy-to-understand language
+R184,reason_teacher,Practical/real-world experience
+R184,reason_teacher,Better follow-up and doubt solving
+R184,reason_teacher,Better understanding of course/syllabus
+R184,reason_teacher,More trustworthy for important academic decisions
+R184,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R184,llm_situations,When I need quick explanations or have limited time.
+R184,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R185,reason_llm,Faster responses
+R185,reason_llm,Can explain the same concept in different ways
+R185,reason_teacher,Better understanding of course/syllabus
+R185,reason_teacher,More trustworthy for important academic decisions
+R185,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R185,llm_situations,When I need examples or personalized explanations.
+R185,teacher_situations,When personal guidance and classroom interaction are needed.
+R186,reason_llm,Personalized responses
+R186,reason_llm,Can explain the same concept in different ways
+R186,reason_llm,More examples
+R186,reason_llm,Helps with difficult concepts
+R186,reason_llm,Clear step-by-step explanations
+R186,reason_teacher,More trustworthy for important academic decisions
+R186,reason_teacher,Better follow-up and doubt solving
+R186,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R186,llm_situations,For quick revision and understanding theoretical topics.
+R186,teacher_situations,For important academic decisions and clearing complex doubts.
+R187,reason_llm,Helps with difficult concepts
+R187,reason_llm,Personalized responses
+R187,reason_llm,Can explain the same concept in different ways
+R187,reason_llm,Clear step-by-step explanations
+R187,reason_llm,Easy-to-understand language
+R187,reason_teacher,Better follow-up and doubt solving
+R187,reason_teacher,More trustworthy for important academic decisions
+R187,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R187,llm_situations,For quick revision and understanding theoretical topics.
+R187,teacher_situations,For important academic decisions and clearing complex doubts.
+R188,reason_llm,Faster responses
+R188,reason_llm,Helps with difficult concepts
+R188,reason_llm,More examples
+R188,reason_llm,Clear step-by-step explanations
+R188,reason_teacher,Better understanding of course/syllabus
+R188,reason_teacher,Practical/real-world experience
+R188,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R188,llm_situations,When I need quick explanations or have limited time.
+R188,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R189,reason_llm,Can explain the same concept in different ways
+R189,reason_llm,Clear step-by-step explanations
+R189,reason_llm,More examples
+R189,reason_llm,Available anytime
+R189,reason_llm,Faster responses
+R189,reason_teacher,Practical/real-world experience
+R189,reason_teacher,More trustworthy for important academic decisions
+R189,reason_teacher,Better follow-up and doubt solving
+R189,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R189,llm_situations,For quick revision and understanding theoretical topics.
+R189,teacher_situations,When personal guidance and classroom interaction are needed.
+R190,reason_llm,Can explain the same concept in different ways
+R190,reason_llm,Faster responses
+R190,reason_llm,Clear step-by-step explanations
+R190,reason_llm,More examples
+R190,reason_teacher,Better follow-up and doubt solving
+R190,reason_teacher,Practical/real-world experience
+R190,reason_teacher,More trustworthy for important academic decisions
+R190,reason_teacher,Better understanding of course/syllabus
+R190,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R190,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R190,teacher_situations,For important academic decisions and clearing complex doubts.
+R191,reason_llm,Can explain the same concept in different ways
+R191,reason_llm,Clear step-by-step explanations
+R191,reason_teacher,Practical/real-world experience
+R191,reason_teacher,Better understanding of course/syllabus
+R191,reason_teacher,More trustworthy for important academic decisions
+R191,reason_teacher,Better follow-up and doubt solving
+R191,reason_overall,"I prefer LLMs for quick explanations, coding help, and understanding theoretical concepts."
+R191,llm_situations,When I need examples or personalized explanations.
+R191,teacher_situations,For important academic decisions and clearing complex doubts.
+R192,reason_llm,Easy-to-understand language
+R192,reason_llm,Personalized responses
+R192,reason_llm,Faster responses
+R192,reason_llm,Clear step-by-step explanations
+R192,reason_llm,Helps with difficult concepts
+R192,reason_teacher,More trustworthy for important academic decisions
+R192,reason_teacher,Better follow-up and doubt solving
+R192,reason_teacher,Practical/real-world experience
+R192,reason_teacher,Better understanding of course/syllabus
+R192,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R192,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R192,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R193,reason_llm,Personalized responses
+R193,reason_llm,Faster responses
+R193,reason_llm,Available anytime
+R193,reason_llm,Can explain the same concept in different ways
+R193,reason_teacher,More trustworthy for important academic decisions
+R193,reason_teacher,Better understanding of course/syllabus
+R193,reason_teacher,Better follow-up and doubt solving
+R193,reason_teacher,Practical/real-world experience
+R193,reason_overall,Teachers have experience and can guide us during exams and important projects.
+R193,llm_situations,For quick revision and understanding theoretical topics.
+R193,teacher_situations,For important academic decisions and clearing complex doubts.
+R194,reason_llm,More examples
+R194,reason_llm,Can explain the same concept in different ways
+R194,reason_llm,Faster responses
+R194,reason_llm,Available anytime
+R194,reason_llm,Helps with difficult concepts
+R194,reason_teacher,Practical/real-world experience
+R194,reason_teacher,More trustworthy for important academic decisions
+R194,reason_teacher,Better understanding of course/syllabus
+R194,reason_teacher,Better follow-up and doubt solving
+R194,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R194,llm_situations,When I need quick explanations or have limited time.
+R194,teacher_situations,When I need practical experience or detailed feedback.
+R195,reason_llm,More examples
+R195,reason_llm,Available anytime
+R195,reason_llm,Helps with difficult concepts
+R195,reason_teacher,Better understanding of course/syllabus
+R195,reason_teacher,More trustworthy for important academic decisions
+R195,reason_teacher,Better follow-up and doubt solving
+R195,reason_overall,LLMs provide examples and help me understand difficult topics quickly.
+R195,llm_situations,When I need examples or personalized explanations.
+R195,teacher_situations,When I need practical experience or detailed feedback.
+R196,reason_llm,Easy-to-understand language
+R196,reason_llm,Faster responses
+R196,reason_llm,Clear step-by-step explanations
+R196,reason_llm,More examples
+R196,reason_llm,Helps with difficult concepts
+R196,reason_teacher,Better follow-up and doubt solving
+R196,reason_teacher,More trustworthy for important academic decisions
+R196,reason_overall,ChatGPT is useful for personalized explanations and repeated follow-up questions.
+R196,llm_situations,"For difficult concepts, coding questions, and repeated doubts."
+R196,teacher_situations,When personal guidance and classroom interaction are needed.
+R197,reason_llm,Helps with difficult concepts
+R197,reason_llm,Can explain the same concept in different ways
+R197,reason_teacher,Better follow-up and doubt solving
+R197,reason_teacher,Practical/real-world experience
+R197,reason_overall,Teachers provide reliable feedback and understand our academic requirements.
+R197,llm_situations,When I need examples or personalized explanations.
+R197,teacher_situations,When I need practical experience or detailed feedback.
+R198,reason_llm,Can explain the same concept in different ways
+R198,reason_llm,Helps with difficult concepts
+R198,reason_teacher,Practical/real-world experience
+R198,reason_teacher,Better follow-up and doubt solving
+R198,reason_teacher,Better understanding of course/syllabus
+R198,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R198,llm_situations,When I need examples or personalized explanations.
+R198,teacher_situations,For important academic decisions and clearing complex doubts.
+R199,reason_llm,Clear step-by-step explanations
+R199,reason_llm,Can explain the same concept in different ways
+R199,reason_teacher,Better follow-up and doubt solving
+R199,reason_teacher,More trustworthy for important academic decisions
+R199,reason_overall,Teachers understand the syllabus and provide better course-specific guidance.
+R199,llm_situations,For quick revision and understanding theoretical topics.
+R199,teacher_situations,Teachers are better for syllabus-specific and exam-oriented guidance.
+R200,reason_llm,Faster responses
+R200,reason_llm,Can explain the same concept in different ways
+R200,reason_teacher,More trustworthy for important academic decisions
+R200,reason_teacher,Better understanding of course/syllabus
+R200,reason_overall,I prefer ChatGPT because it is available anytime and explains concepts step by step.
+R200,llm_situations,When I need examples or personalized explanations.
+R200,teacher_situations,For important academic decisions and clearing complex doubts.
